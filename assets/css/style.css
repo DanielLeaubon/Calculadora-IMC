@@ -35,8 +35,6 @@ body {
   }
   
   div{
-    justify-content: center;
-    align-items: center;
     width: 40%;
     height: 40%;
     display:inline-table
