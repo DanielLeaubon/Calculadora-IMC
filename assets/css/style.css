@@ -26,19 +26,23 @@ body {
   border-radius: 10px;
 }
 #imc h5{
-  width: 100pt;
+  width: 200pt;
   display: block;
   }
   #result h5{
-  width: 100pt;
+  width: 200pt;
   display: block;
   }
   
   div{
-    width: 40%;
-    height: 40%;
+    width: 45%;
+    height: 30%;
     display:inline-table
   }
+  #resultado{
+    display: inline;
+  }
+
 
 form input, form label, form button {
   display: block;
